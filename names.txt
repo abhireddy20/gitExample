@@ -1,2 +1,3 @@
 boss,thadur,Thadur,Abhiraam
 employee,zzhou553,Zhongzheng,Zhou
+role,NetID,LastName,FirstName
